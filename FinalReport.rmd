@@ -37,6 +37,7 @@ barchartGC(~infected + treatment,data=triUmpF)
 barchartGC(~infected + treatment,data=triUmpF, type="percent")
 
 ```
+
 This graph shows that the females who received the drug end up having a higher chance to acquire aids compared to the females who do not have aids and did not receive the drug. 
 
 ### Numerical Descriptive Results
@@ -65,9 +66,8 @@ p-value = 0.0000659, this number is so small that the results we found are likel
 
 The odds ratio is 1.543902, this means that females who got the drug are 1.5 times more likely to get aids than females who got the placebo.
 
-
-
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+Our results came to the conclusion that the females who get the drug have a higher chance of getting the drug compared to the females who get the placebo. This means that the drug was not effective due to the fact that females who received the drug ended up getting aids  instead of prevent aids compared to the females who did not receive the drug.
